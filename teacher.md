@@ -34,5 +34,6 @@ theme:
 <!-- incremental_lists: true -->
 - 一個具 **rollback** 功能的「硬碟」，而 **Github** 提供雲端空間。
 - 並非**即時**「儲存」，需利用 `commit` 將每個能 rollback 的時間點記錄下來。
+<!-- end_slide -->
 
 

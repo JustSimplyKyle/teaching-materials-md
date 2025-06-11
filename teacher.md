@@ -25,7 +25,7 @@ theme:
 前製軟體
 ===
 - github cli(`winget install -e --id GitHub.cli`)
-- git(`winget install -e --id Git.git`)
+- git(`winget install -e --id Git.Git`)
 - lazygit(`winget install -e --id JesseDuffield.lazygit`)
 
 <!-- end_slide -->
